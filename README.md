@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <img alt="Portfolio" title="Portfolio" src="src/img/home.png" />
+  <img alt="Portfolio" title="Portfolio" src="src/img/home.PNG" />
 </h1>
 
 ## 💻 Projeto
