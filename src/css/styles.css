@@ -181,7 +181,7 @@ img{
     max-width: 968px;
     height: var(--header-height);
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -477,6 +477,10 @@ img{
 .skills__list{
     row-gap: 1.5rem;
     padding-left: 2.7rem;
+}
+
+.skills__data{
+    padding-right: 2.7rem;
 }
 
 .skills__titles{
